@@ -1,7 +1,12 @@
 #include <stdio.h>
+
 /**
- * main - A program that prints a line with puts function
- * Return : 0 (Success)
+ * main - Entry point of the program
+ *
+ * Description: This function prints a message to the console and
+ * returns 0 to indicate successful execution.
+ *
+ * Return: 0 (Success)
  */
 int main(void)
 {
