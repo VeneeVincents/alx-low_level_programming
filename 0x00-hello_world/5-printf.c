@@ -1,9 +1,13 @@
 #include <stdio.h>
 
 /**
- * main - 
+ * main - Entry point of the program
  *
- * Return : 0 when successful
+ * Description: This function prints a piece of art with proper grammar to
+ *              the console, followed by a newline, and returns 0 to indicate
+ *              successful execution.
+ *
+ * Return: 0 (Success)
  */
 int main(void)
 {
